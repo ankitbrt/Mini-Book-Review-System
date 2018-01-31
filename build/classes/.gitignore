@@ -1,0 +1,7 @@
+/config.properties
+/constants/
+/database/
+/entities/
+/log4j.properties
+/servlets/
+/test/
